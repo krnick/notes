@@ -3,19 +3,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Krnick notes!
-==================================
+++++++++++++
+CVE
+++++++++++++
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+CVE submission
+==============
 
-   talks
-   
+* `CVE-2019-9674 <https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-9674>`_
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`

@@ -11,6 +11,8 @@ Krnick notes!
    :caption: Contents:
 
    talks
+   books
+   CVE
    
 
 Indices and tables
