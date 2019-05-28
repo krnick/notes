@@ -11,7 +11,6 @@ Krnick notes!
    :caption: Contents:
 
    talks
-   contents
    
 
 Indices and tables
