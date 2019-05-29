@@ -10,4 +10,5 @@ Talks
 Pycon
 =====
 
-* Pycon 2019
+* Pycon Taiwan 2019
+* Pycon Korea 2019
