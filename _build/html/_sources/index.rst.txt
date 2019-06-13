@@ -10,10 +10,11 @@ Krnick notes!
    :maxdepth: 2
    :caption: Contents:
 
-   talks
-   books
+   Projects
+   Talks
+   Books
    CVE
-   
+   contents
 
 Indices and tables
 ==================

@@ -57,4 +57,4 @@ source_parsers = {
 }
 source_suffix = ['.rst', '.md']
 
-html_logo = "krnick.jpg"
+html_logo = "junwei.png"
