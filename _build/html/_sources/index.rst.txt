@@ -14,7 +14,6 @@ Krnick notes!
    Talks
    Books
    CVE
-   contents
 
 Indices and tables
 ==================
