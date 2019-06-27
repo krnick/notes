@@ -10,5 +10,5 @@ Talks
 Pycon
 =====
 
-* Pycon Taiwan 2019 Speaker
-* Pycon Korea 2019 Speaker
+* `Pycon Taiwan 2019 Speaker <https://www.pycon.kr/program/talk-detail?id=60>`_
+* `Pycon Korea 2019 Speaker <https://tw.pycon.org/2019/zh-hant/events/talk/864922598880837873/>`_
