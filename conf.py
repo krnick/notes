@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'krnick'
-copyright = '2019, Nick Sung (krnick)'
-author = 'Nick Sung (krnick)'
+copyright = 'JunWei Song (krnick)'
+author = 'JunWei Song'
 
 
 # -- General configuration ---------------------------------------------------
