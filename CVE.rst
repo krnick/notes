@@ -12,3 +12,8 @@ CVE submission
 
 * `CVE-2019-9674 <https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-9674>`_
 
+Links:
+>>>>>>
+   - https://bugs.python.org/issue36462
+   - https://bugs.python.org/issue36260
+   - https://python-security.readthedocs.io/vuln/zip-bomb.html
