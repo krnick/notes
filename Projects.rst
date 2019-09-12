@@ -7,6 +7,10 @@ Projects
 Open Source
 ===========
 
+* `CPython <https://github.com/python/cpython/pulls?utf8=%E2%9C%93&q=krnick>`_
+
+CPython Contributor.
+
 * `sunzip <https://github.com/twbgc/sunzip>`_
 
 Author of sunzip, which provides secure unzip against zip bomb.
