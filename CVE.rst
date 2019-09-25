@@ -16,5 +16,5 @@ Links:
 >>>>>>
    - https://bugs.python.org/issue36462
    - https://bugs.python.org/issue36260
-   - https://python-security.readthedocs.io/vuln/zip-bomb.html
+   - https://python-security.readthedocs.io/security.html
    - `Github Pull Request <https://github.com/python/cpython/pull/13378>`_
