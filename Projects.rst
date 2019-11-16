@@ -22,3 +22,7 @@ Author of gpsdistance, it can get the distance between two GPS two-dimensional /
 * `Gwalstat <https://github.com/krnick/Gwalstat>`_
 
 🤖 A bot for checking pull requests spelling.
+
+* `quark-engine <https://github.com/quark-engine/quark-engine>`_
+
+Author of :squirrel: An Obfuscation-Neglect Android Malware Scoring System
