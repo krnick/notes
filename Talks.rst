@@ -10,6 +10,7 @@ Talks
 Hack in the box
 ===============
 
+.. image:: https://i.imgur.com/ytA4vUp.png
 * `HITB2020AMS Armory <https://conference.hitb.org/hitbsecconf2020ams/hitb-armory/>`_
 * `HITB2020AMS Armory Speaker info <https://conference.hitb.org/hitbsecconf2020ams/speakers/junwei-song/>`_
 
