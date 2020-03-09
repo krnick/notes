@@ -14,7 +14,7 @@ Hack in the box
 * `HITB2020AMS Armory <https://conference.hitb.org/hitbsecconf2020ams/hitb-armory/>`_
 * `HITB2020AMS Armory Speaker info <https://conference.hitb.org/hitbsecconf2020ams/speakers/junwei-song/>`_
 
-Pycon
+PyCon
 =====
 
 * `Pycon Taiwan 2019 Speaker <https://www.youtube.com/watch?v=D_WHNa4VO0I>`_ 
