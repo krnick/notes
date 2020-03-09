@@ -17,6 +17,6 @@ Hack in the box
 PyCon
 =====
 
-* `Pycon Taiwan 2019 Speaker <https://www.youtube.com/watch?v=D_WHNa4VO0I>`_ 
-* `Pycon Korea 2019 Speaker <https://www.youtube.com/watch?v=-S4JVQt6GX4>`_
-* `Pycon Malaysia 2019 Speaker <https://www.youtube.com/watch?v=hDtBRnfe85A>`_
+* `PyCon Taiwan 2019 Speaker <https://www.youtube.com/watch?v=D_WHNa4VO0I>`_ 
+* `PyCon Korea 2019 Speaker <https://www.youtube.com/watch?v=-S4JVQt6GX4>`_
+* `PyCon Malaysia 2019 Speaker <https://www.youtube.com/watch?v=hDtBRnfe85A>`_
