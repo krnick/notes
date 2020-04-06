@@ -10,6 +10,7 @@ JunWei is a Security Researcher at Telecom Technology Center, Taiwan. A paranoid
 
 
 * `Resume (Mandarin Version 中文版) <https://www.cakeresume.com/sungboss2004>`_
+* `Resume (English Version 英文版) <https://github.com/krnick/notes/raw/master/CV-JunWei%20Song.pdf>`_
 
 .. toctree::
    :maxdepth: 2
