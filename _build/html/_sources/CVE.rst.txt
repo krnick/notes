@@ -12,3 +12,9 @@ CVE submission
 
 * `CVE-2019-9674 <https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-9674>`_
 
+Links:
+>>>>>>
+   - https://bugs.python.org/issue36462
+   - https://bugs.python.org/issue36260
+   - https://python-security.readthedocs.io/security.html#archives-and-zip-bomb
+   - `Github Pull Request <https://github.com/python/cpython/pull/13378>`_
