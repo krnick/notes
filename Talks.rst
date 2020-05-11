@@ -17,6 +17,15 @@ Hack in the box
 PyCon
 =====
 
+2020
+----
+
+* `Europython 2020 Speaker <https://ep2020.europython.eu/talks/BDppVua-so-you-want-to-build-an-anti-virus-engine/>`_ 
+
+
+2019
+----
+
 * `PyCon Taiwan 2019 Speaker <https://www.youtube.com/watch?v=D_WHNa4VO0I>`_ 
 * `PyCon Korea 2019 Speaker <https://www.youtube.com/watch?v=-S4JVQt6GX4>`_
 * `PyCon Malaysia 2019 Speaker <https://www.youtube.com/watch?v=hDtBRnfe85A>`_
