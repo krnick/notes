@@ -21,6 +21,7 @@ PyCon
 ----
 
 * `Europython 2020 Speaker <https://ep2020.europython.eu/talks/BDppVua-so-you-want-to-build-an-anti-virus-engine/>`_ 
+* `PyCon Taiwan 2020 Speaker <https://tw.pycon.org/2020/zh-hant/>`_ 
 
 
 2019
