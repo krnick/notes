@@ -10,7 +10,7 @@ Talks
 Hack in the box
 ===============
 
-
+.. image:: https://i.imgur.com/IQ04yKe.png
 
 * `HITB Singapore 2020 Speaker <https://conference.hitb.org/hitb-lockdown002/sessions/quark-engine-an-obfuscation-neglect-android-malware-scoring-system/>`_
 
