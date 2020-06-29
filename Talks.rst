@@ -7,6 +7,11 @@
 Talks
 ++++++++++++
 
+DEFCON
+======
+
+DEFCON Blue Team Villages Speaker 
+
 Hack in the box
 ===============
 
