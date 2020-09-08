@@ -10,14 +10,17 @@ Talks
 DEFCON
 ======
 
-DEFCON Blue Team Villages 2020 Speaker
-
 .. image:: https://i.imgur.com/lQLmCIz.jpg
 
-* `DEFCON Website <https://cfc.blueteamvillage.org/call-for-content-2020/talk/FWDP3K/>`_ 
+* `DEFCON Blue Team Villages 2020 <https://cfc.blueteamvillage.org/call-for-content-2020/talk/FWDP3K/>`_ 
 
-* `DEFCON Video <https://www.youtube.com/watch?v=XK-yqHPnsvc&ab_channel=DEFCONConference>`_ 
+* `Video <https://www.youtube.com/watch?v=XK-yqHPnsvc&ab_channel=DEFCONConference>`_ 
 
+
+ROOTCON
+=======
+
+* `ROOTCON 2020 <https://www.rootcon.org/html/recoverymode/talks#quark_engine>`_ 
 
 
 Hack in the box
