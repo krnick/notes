@@ -10,14 +10,24 @@ Talks
 DEFCON
 ======
 
-DEFCON Blue Team Villages Speaker 
+DEFCON Blue Team Villages 2020 Speaker
+
+.. image:: https://i.imgur.com/lQLmCIz.jpg
+
+* `DEFCON Website <https://cfc.blueteamvillage.org/call-for-content-2020/talk/FWDP3K/>`_ 
+
+* `DEFCON Video <https://www.youtube.com/watch?v=XK-yqHPnsvc&ab_channel=DEFCONConference>`_ 
+
+
 
 Hack in the box
 ===============
 
 .. image:: https://i.imgur.com/IQ04yKe.png
 
-* `HITB Singapore 2020 Speaker <https://conference.hitb.org/hitb-lockdown002/sessions/quark-engine-an-obfuscation-neglect-android-malware-scoring-system/>`_
+* `HITB Lockdwon 2020 Speaker <https://conference.hitb.org/hitb-lockdown002/sessions/quark-engine-an-obfuscation-neglect-android-malware-scoring-system/>`_
+
+* `HITB Video <https://conference.hitb.org/hitb-lockdown002/sessions/quark-engine-an-obfuscation-neglect-android-malware-scoring-system/>`_ 
 
 .. image:: https://i.imgur.com/ytA4vUp.png
 * `HITB2020AMS Armory <https://conference.hitb.org/hitbsecconf2020ams/hitb-armory/>`_
@@ -30,7 +40,7 @@ PyCon
 ----
 
 * `Europython 2020 Speaker <https://ep2020.europython.eu/talks/BDppVua-so-you-want-to-build-an-anti-virus-engine/>`_ 
-* `PyCon Taiwan 2020 Speaker <https://tw.pycon.org/2020/zh-hant/>`_ 
+* `PyCon Taiwan 2020 Speaker <https://tw.pycon.org/2020/zh-hant/conference/talk/1124332019854082369/>`_ 
 
 
 2019
